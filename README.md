@@ -22,5 +22,10 @@
 
 [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) 如果你写Sass的话这个肯定能用的到。
 
+[Easy Sass](https://marketplace.visualstudio.com/items?itemName=spook.easysass) 可以制动帮你编译Sass，压缩css,非常方便。
+
 [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) 插件同步，你可以把公司电脑上的VSCode插件配置快件等同步到家里的电脑上，再也不用换个电脑装一次插件配置一次设置了。
 
+[Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) 自动添加HTML / XML关闭标签。
+
+[Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) 添加浏览器私有前缀。
